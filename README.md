@@ -78,7 +78,7 @@ b: Unkindled moves to Profane Capital
 ```
 
 ## Meaning of characters in the game
-```json
+```
 "B": Bonfire          -- (player can rest and teleport to other bonfires here)
 "@": Unkindled        -- (player)
 "u": undead           -- (enemy)
