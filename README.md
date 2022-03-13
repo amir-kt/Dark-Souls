@@ -8,7 +8,7 @@ There are two maps in the game which are connected to each other, there are door
 
 The door is denoted by the _**'='**_ character.
 
-### Map 1 (Profane Capital):
+## Map 1 (Profane Capital):
 ```text
 ..++++++..+++...........................++++......+++.................+++.......
 ........+++++..............................+++++++..........s......+++++........
@@ -38,7 +38,7 @@ _..._....._._#.++......................+...................................+....
 ___...Y7..___#.++++++++++++++.+++.......=.....................................++
 ```
 
-### Map 2 (Anor Londo):
+## Map 2 (Anor Londo):
 ```text
 u.....++.+++..+++.....c+....@...........................
 ........c...+++++................B......................
@@ -60,7 +60,7 @@ u.....++.+++..+++.....c+....@...........................
 <br>
 At each turn the player is presented with a series of actions and their respective command keys.
 
-### Sample actions:
+## Sample actions:
 ```text
 6: Unkindled moves East
 3: Unkindled moves South-East
